@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ace75348-fff7-4416-8a67-3eaa1b447da6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/polls/templates/polls/detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/templates/polls/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/polls/templates/polls/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/polls/templates/polls/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1641196474415</updated>
       <workItem from="1641196476263" duration="1701000" />
-      <workItem from="1641770490216" duration="5610000" />
+      <workItem from="1641770490216" duration="15705000" />
     </task>
     <servers />
   </component>
