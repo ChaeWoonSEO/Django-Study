@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a0eaf2ca-fe86-4f99-98da-3d46e1ed1e07" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pybo/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/pybo/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pybo/question_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pybo/question_form.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,7 @@
       <workItem from="1640070969057" duration="3620000" />
       <workItem from="1641196336403" duration="764000" />
       <workItem from="1641770490428" duration="778000" />
-      <workItem from="1643067798878" duration="4931000" />
+      <workItem from="1643067798878" duration="5048000" />
     </task>
     <servers />
   </component>
